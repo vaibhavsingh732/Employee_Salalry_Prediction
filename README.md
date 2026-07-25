@@ -2,7 +2,7 @@
 
 Predict employee salaries instantly using a Machine Learning model built with **Python**, **Scikit-learn**, and **Streamlit**.
 
-🌐 **Live Demo:** https://employee-salary-predictor09.streamlit.app/
+🌐 **Live Demo:** https://employeesalalryprediction-dylh95sxyo7bfzwfnsxadi.streamlit.app/
 
 ---
 
